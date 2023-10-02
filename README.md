@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KronosCloud</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kronoscloud&label=Profile%20views&color=0e75b6&style=flat" alt="kronoscloud" /> </p>****
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kronoscloud&label=Profile%20views&color=0e75b6&style=flat" alt="kronoscloud" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-- 🔭 I’m currently working on **𝙆𝙧𝙤𝙣𝙤𝙨𝘾𝙡𝙤𝙪𝙙 ⛅**
+- 🔭 I’m currently working on 𝙆𝙧𝙤𝙣𝙤𝙨𝘾𝙡𝙤𝙪𝙙 ⛅
 
 - 📫 How to reach me **support@kronoscraft.de**
 
